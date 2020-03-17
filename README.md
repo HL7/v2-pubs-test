@@ -1,2 +1,2 @@
 This is the README.
-Change git config email again.
+Change git config email and git user.name to Sam's.
