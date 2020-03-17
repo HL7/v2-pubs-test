@@ -1,2 +1,2 @@
 This is the README.
-Shifted SSH key to mfaughn.
+Change git config email.
